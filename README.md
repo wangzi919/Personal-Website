@@ -18,9 +18,9 @@
 
 <br />
 
-<!-- PLACEHOLDER FOR PROJECT BANNER/HERO IMAGE OR GIF -->
-> 🖼️ *[Insert: A full-width screenshot or looping GIF of the website design / Hero Section here]*  
-> Example Markdown: `![Hero Image](./assets/hero-demo.gif)`
+<!-- PROJECT BANNER/HERO IMAGE -->
+> 🖼️ *Homepage Hero Section*  
+> ![Hero Image](./assets/homepage_screenshot.png)
 
 ## 🎯 Overview
 
